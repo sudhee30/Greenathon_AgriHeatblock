@@ -1,5 +1,6 @@
 **AgriHeatblocks**
-Overview
+
+
 This project focuses on the development of efficient AgriHeatblocks using agricultural residues. The goal is to convert waste products such as paddy straws, wheat straws, corn cobs, and ragi straws into high-calorific value briquettes, which can serve as an eco-friendly alternative to traditional fuels. This approach aims to address both waste management issues and air pollution resulting from open-field burning of agricultural residues.
 
 **Key Features**
